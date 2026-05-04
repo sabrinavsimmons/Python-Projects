@@ -8,6 +8,7 @@ IT and cybersecurity training program.
 | Project | Description | Source |
 |---|---|---|
 | Block Letters | ASCII art displaying initials using block characters | Codecademy Learn Python 3 |
+| Receipts for Lovely Loveseats | Receipt system using strings, numbers, and variables to generate a customer receipt | Codecademy Learn Python 3 |
 
 ## About
 
