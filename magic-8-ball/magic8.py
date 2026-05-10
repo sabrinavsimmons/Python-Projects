@@ -1,6 +1,6 @@
 import random
 
-name = "Sabrina"
+name = "Sabri"
 question = "Will I pass my exam?"
 
 random_number = random.randint(1, 9)
