@@ -9,6 +9,7 @@ IT and cybersecurity training program.
 |---|---|---|
 | Block Letters | ASCII art displaying initials using block characters | Codecademy Learn Python 3 |
 | Receipts for Lovely Loveseats | Receipt system using strings, numbers, and variables to generate a customer receipt | Codecademy Learn Python 3 |
+| Magic 8-Ball | Fortune-telling program using randomization and conditional logic to return one of 9 possible answers | Codecademy Learn Python 3 | 
 
 ## About
 
@@ -20,4 +21,4 @@ and IT support.
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sabrina-simmons-830095a1/)
-- WiCYS Member
+- WiCYS Member 
